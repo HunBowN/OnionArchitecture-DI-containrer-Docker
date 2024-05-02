@@ -1,0 +1,6 @@
+/storage/logs/*
+/.vscode/
+
+/docker-compose_local.yml
+/docker-compose_prod.yml
+/README.md
